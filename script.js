@@ -51,6 +51,12 @@ const songDataBase = [
     imgSrc: "./img/5.avif",
   },
   {
+    songSrc: "./music/music1.mp3",
+    title: "Tu Hi Hai Aashiqui",
+    artist: "Arijit Singh",
+    imgSrc: "./img/1.jpg",
+  },
+  {
     songSrc: "./music/music6.mp3",
     title: "Tu Milta Hai Mujhe",
     artist: "Raj Barman",
